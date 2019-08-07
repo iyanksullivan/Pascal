@@ -1,2 +1,2 @@
 # Pascal
-My Final Task for Pascal Lecture
+Tubes euy banyak bug kali gatau dah
